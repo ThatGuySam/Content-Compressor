@@ -36,7 +36,7 @@
                   placeholder="Type anything..."
                   contenteditable="true"
                   autofocus
-                  style="height: auto; white-space: pre;"
+                  style="height: auto; white-space: pre-wrap;"
                   @input="updateCopy" />
               </div>
 
